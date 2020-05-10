@@ -1,4 +1,4 @@
-# sketch-rnn
+# Applying Sketch-RNN to Handwritten Characters
 
 Please see My_Sketch_RNN.ipynb for the code and commentary for this project. 
 
